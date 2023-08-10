@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: Mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/<Sonkhe-Shongwe>/<Mypackage>
+Author: <Sonkhe Shongwe>
+Author-email: <shongwesonkhe@gmail.com>
+License: MIT
+
+# mypackage
+
+This library was created as an example of how publish your own Python package.
+
+# How to install
